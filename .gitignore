@@ -1,0 +1,17 @@
+# Binaries
+backend/api.exe
+backend/worker.exe
+backend/migrate.exe
+backend/bin/
+
+# Environment
+.env
+*.local
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Misc
+.DS_Store
+Thumbs.db
